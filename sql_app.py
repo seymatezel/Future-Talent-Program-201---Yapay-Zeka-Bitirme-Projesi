@@ -1,6 +1,4 @@
 
-
-
  # ─── Standart Kütüphaneler ────────────────────────────────────────────────────
 import random
 import textwrap
@@ -21,8 +19,8 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 # SAYFA YAPISI
 # ══════════════════════════════════════════════════════════════════════════════
 st.set_page_config(
-    page_title="SQL Asistanı 🧠",
-    page_icon="🧠",
+    page_title="SQL Asistanı ",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
