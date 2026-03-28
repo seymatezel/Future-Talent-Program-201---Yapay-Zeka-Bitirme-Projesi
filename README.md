@@ -1,5 +1,4 @@
-# Future Talent Program-201 Yapay-Zeka-Bitirme-Projesi
-# SQL Asistanı: AI Destekli SQL Sorgu ÜretiM Uygulaması
+# SQL Asistanı: AI Destekli SQL Sorgu Üretim Uygulaması
 Bu projede, karmaşık SQL sorgularını sql kullanmada temel seviyede bilgi sahibi olan kişiler için  doğal dil kullanarak oluşturmalarına ve öğrenmelerine yardımcı olan yapay zeka destekli bir web uygulaması geliştirdim. Bu uygulama, **Google Gemini 1.5 Flash** altyapısını kullanır.
 
 ## Öne Çıkan Özellikler
